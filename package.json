@@ -8,9 +8,14 @@
     "check": "biome check"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.1.13",
     "modern-normalize": "^3.0.1",
+    "overlay-kit": "^1.8.5",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react-dom": "^19.1.1",
+    "react-hook-form": "^7.63.0",
+    "react-remove-scroll-bar": "^2.3.8",
+    "tailwindcss": "^4.1.13"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.2.2",
